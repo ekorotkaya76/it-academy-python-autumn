@@ -7,6 +7,5 @@
 m = int(input('rub'))
 n = int(input('kop'))
 l = int(input('units'))
-c = ((m*100+n)*l)/100
-print (c)
-
+c = ((m * 100 + n) * l) / 100
+print(c)
